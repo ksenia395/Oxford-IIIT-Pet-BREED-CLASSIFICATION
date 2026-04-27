@@ -5,13 +5,6 @@
 - `01_baseline.ipynb` — simple baseline model
 - `02_resnet18_transfer_learning.ipynb` — transfer learning with ResNet18
 - `images/` — saved plots and visualizations
-  🚀 Open in Google Colab
-Open Notebookhttps://colab.research.google.com/drive/1HvVuajTCe2kQs3PI5Qbe86OMnKCEdDpN?authuser=1#scrollTo=n_Iskzdi487F
-
-💡 How to Run
-Open the notebook in Google Colab
-Upload the dataset or use provided download link
-Run all cells
 
 ## Dataset
 
