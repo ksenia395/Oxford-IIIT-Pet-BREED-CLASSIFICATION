@@ -48,7 +48,7 @@ The transfer learning model achieved:
 
 ### Confusion Matrix
 
-![Confusion Matrix](image/Confusion_matrix.png)
+![Confusion Matrix](image/Confusion_Matrix.png)
 
 ## Conclusion
 
