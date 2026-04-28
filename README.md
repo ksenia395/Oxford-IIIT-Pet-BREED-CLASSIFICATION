@@ -1,5 +1,5 @@
 # Oxford-IIIT-Pet-BREED-CLASSIFICATION
-##Problem Statement  This project focuses on image classification using the Oxford-IIIT Pet Dataset. The goal is to predict the breed of a cat or dog from a photo. This is a multi-class classification task with 37 pet breeds. 
+Problem Statement  This project focuses on image classification using the Oxford-IIIT Pet Dataset. The goal is to predict the breed of a cat or dog from a photo. This is a multi-class classification task with 37 pet breeds. 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HvVuajTCe2kQs3PI5Qbe86OMnKCEdDpN?authuser=1#scrollTo=n_Iskzdi487F)
 ## Project Structure
 
