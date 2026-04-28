@@ -40,15 +40,15 @@ The transfer learning model achieved:
 
 ### Training Loss
 
-![Loss Curve](images/loss_curve.png)
+![Loss Curve](image/Loss_curve.png)
 
 ### Training Accuracy
 
-![Accuracy Curve](images/accuracy_curve.png)
+![Accuracy Curve](image/Accuracy_curve.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](image/Confusion_matrix.png)
 
 ## Conclusion
 
